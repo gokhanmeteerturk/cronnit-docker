@@ -1,8 +1,8 @@
 
 # Cronnit-Docker
 
-A free service for making scheduled posts to Reddit. It's available at
-https://cronnit.us or you can download the code and host it yourself!
+Cronnit was a free service for making scheduled posts to Reddit.
+This is a dockerized version of the same repo.
 
 ## Hosting
 
